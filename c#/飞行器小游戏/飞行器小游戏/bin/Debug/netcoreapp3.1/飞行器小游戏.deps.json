@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "飞行器小游戏/1.0.0": {
+        "runtime": {
+          "飞行器小游戏.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "飞行器小游戏/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,1 @@
+HPNumber.text = HP.ToString();//把数字转到UI上

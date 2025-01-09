@@ -1,0 +1,46 @@
+使用Unity版本:2020.2
+创建3D项目,package manager中安装unversal RP,
+右键创建Rendering=>Universal Render PipeLine=>Pipeline Asset(urp的设置文件)
+菜单的Edit中选择Project Settings,切到Graphic选单,将刚才创建的设置文件拖到那个显眼的框框里面
+支线:可以在Quality(质量)选单中为不同的渲染质量选择不同的渲染设置文件.
+因为版本问题,无法在软件内部访问Asset Store,需要在网页端进行资源导入.
+(具体过程看视频)
+回到Unity,打开Package Manager,切换Package到My Asset,选择你想要导入的素材,右下角download,再import
+(选素材之前记得确认素材对渲染管线的支持情况)
+在Edit=>Render Pipeline=>Universal Render Pipeline=>中可以升级当前场景或者当前项目的素材的渲染管线.
+
+
+
+
+
+
+Pack Manager中安装Poly Brush,并在它的页面中点开Samples,根据渲染管线导入对应 Shader
+安装完成之后,菜单会多出一个Tool,选择Polybrush=> Polybrush Window打开Polybrush的菜单
+Polybrush窗口顶部的几个图标功能分别是:
+地形高矮,地形柔化,地形颜色,刷预制体,刷图片
+
+高矮:
+左键上升,按住Ctrl再点击则是下降
+Shift+滚轮是内圈大小,Ctrl+滚轮调整外圈大小
+Direction可以选择变化方向,默认的Normal是法线方向,其他的建议自己尝试
+柔化:
+比较类似,大家动手试一试吧
+颜色:
+需要先用之前导入的shader创建对应的Material,拖拽至地面,刷的颜色才能生效
+刷预制体:
+可以将想要刷的预制体拖拽至调色盘(Current Palette)中,
+选择想要刷的预制体,在Brush Loadout中可以调整出现的概率
+按住Ctrl再点击便是删除
+Hit Surface is Parent选项可以将刷进去的预制体变为地面的子物体,方便整理
+
+--------分割线
+
+安装ProBuilder,Samples中导入URP支持
+Tool=>ProBuilder打开菜单,右上角三个点可以将文字描述更改为图标描述,按住Shift再移动鼠标可以看到功能介绍
+有齿轮的则可以按住Alt或者Option点击出菜单
+创建一个物体,形状选择Plane,下面的Width Segments和Length Segments可以设置长款的顶点数量
+默认创建出的物体,锚点是在边角,在ProBuilder的菜单中选择中心点按钮(具体看视频)可以将锚点设置为中心
+(可选)打开Project Settings=>Package Manager选项中开启Enable Preview Package,安装ProGrids
+安装完成后场景左上角便会多一个图标,点击启动,可以增加参考线,以及移动吸附功能(来自可乐的吐槽:这玩意儿就应该用来做乐高)
+
+因为ProBuilder创建的物体默认是正方形顶点,可以在ProBuilder菜单中找到那个长得像折纸的图标,将对应物体的顶点改为三角形连接

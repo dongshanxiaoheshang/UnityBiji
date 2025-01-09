@@ -1,0 +1,12 @@
+通过名称找对象
+gameobject    player=GameObject.Find(“名称”）
+
+
+通过标签找对象
+gameobject    player=GameObject.FindWithTag(“名称”）
+
+
+找一推
+gameobject[]    player=GameObject.FindGameObjectsWithTag(“名称”）
+
+gameobject。SetActive（false）；设置游戏对象激活方式

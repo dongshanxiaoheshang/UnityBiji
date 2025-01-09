@@ -1,0 +1,43 @@
+策划
+如果弹匣内装有子弹,可以发射;否则等待更换弹匣。
+发射子弹时,播放音效、动画、显示火花。
+玩家的枪可以单发或者连发。
+主角子弹
+根据击中敌人的部位减血。
+子弹飞行到目标点销毁,并创建相应特效。
+敌人子弹
+击中玩家后减血。
+子弹飞行到目标点销毁，并创建相应特效。
+朝向玩家头部发射,飞行速度较慢,便于玩家躲避。
+
+
+需求分析
+创建脚本- -枪Gun，
+提供开火更换弹匣功能。
+创建脚本一单发枪 SingleGun ,继承自Gun，根据玩家
+输入调用相应(开火、更换弹匣)方法。
+创建脚本一连发枪 AutomaticGun,继承自 Gun ,根据
+玩家输入调用相应方法。
+
+
+需求分析
+创建脚本--子弹Bullet,计算攻击的目标点,执行移动
+创建接触特效。
+创建脚本--玩家子弹PlayerBullet，继承自Bullet，根据
+击中敌人部位扣血。
+创建脚本-敌人子弹EnemyBullet，继承自Bullet，击
+中玩家后扣血。
+
+
+
+代码实现
+枪Gun
+定义变量:
+int ammaCapacity弹匣容量
+只
+int currentAmmoBullets当前弹匣内子弹数
+int remainBullets剩余子弹数
+int atk攻击力
+Transform firePoint开火点位置
+GameObject bulletPrefab子弹预制件
+AudioClip fireSound开火声音片段

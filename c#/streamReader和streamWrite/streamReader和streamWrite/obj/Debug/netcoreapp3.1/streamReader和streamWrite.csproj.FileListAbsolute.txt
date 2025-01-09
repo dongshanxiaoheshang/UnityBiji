@@ -1,0 +1,14 @@
+C:\Users\小伤刘\Desktop\c#\streamReader和streamWrite\streamReader和streamWrite\bin\Debug\netcoreapp3.1\streamReader和streamWrite.exe
+C:\Users\小伤刘\Desktop\c#\streamReader和streamWrite\streamReader和streamWrite\bin\Debug\netcoreapp3.1\streamReader和streamWrite.deps.json
+C:\Users\小伤刘\Desktop\c#\streamReader和streamWrite\streamReader和streamWrite\bin\Debug\netcoreapp3.1\streamReader和streamWrite.runtimeconfig.json
+C:\Users\小伤刘\Desktop\c#\streamReader和streamWrite\streamReader和streamWrite\bin\Debug\netcoreapp3.1\streamReader和streamWrite.runtimeconfig.dev.json
+C:\Users\小伤刘\Desktop\c#\streamReader和streamWrite\streamReader和streamWrite\bin\Debug\netcoreapp3.1\streamReader和streamWrite.dll
+C:\Users\小伤刘\Desktop\c#\streamReader和streamWrite\streamReader和streamWrite\bin\Debug\netcoreapp3.1\streamReader和streamWrite.pdb
+C:\Users\小伤刘\Desktop\c#\streamReader和streamWrite\streamReader和streamWrite\obj\Debug\netcoreapp3.1\streamReader和streamWrite.csproj.AssemblyReference.cache
+C:\Users\小伤刘\Desktop\c#\streamReader和streamWrite\streamReader和streamWrite\obj\Debug\netcoreapp3.1\streamReader和streamWrite.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\小伤刘\Desktop\c#\streamReader和streamWrite\streamReader和streamWrite\obj\Debug\netcoreapp3.1\streamReader和streamWrite.AssemblyInfoInputs.cache
+C:\Users\小伤刘\Desktop\c#\streamReader和streamWrite\streamReader和streamWrite\obj\Debug\netcoreapp3.1\streamReader和streamWrite.AssemblyInfo.cs
+C:\Users\小伤刘\Desktop\c#\streamReader和streamWrite\streamReader和streamWrite\obj\Debug\netcoreapp3.1\streamReader和streamWrite.csproj.CoreCompileInputs.cache
+C:\Users\小伤刘\Desktop\c#\streamReader和streamWrite\streamReader和streamWrite\obj\Debug\netcoreapp3.1\streamReader和streamWrite.dll
+C:\Users\小伤刘\Desktop\c#\streamReader和streamWrite\streamReader和streamWrite\obj\Debug\netcoreapp3.1\streamReader和streamWrite.pdb
+C:\Users\小伤刘\Desktop\c#\streamReader和streamWrite\streamReader和streamWrite\obj\Debug\netcoreapp3.1\streamReader和streamWrite.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\小伤刘\Desktop\联系\联系\bin\Debug\netcoreapp3.1\联系.exe
+C:\Users\小伤刘\Desktop\联系\联系\bin\Debug\netcoreapp3.1\联系.deps.json
+C:\Users\小伤刘\Desktop\联系\联系\bin\Debug\netcoreapp3.1\联系.runtimeconfig.json
+C:\Users\小伤刘\Desktop\联系\联系\bin\Debug\netcoreapp3.1\联系.runtimeconfig.dev.json
+C:\Users\小伤刘\Desktop\联系\联系\bin\Debug\netcoreapp3.1\联系.dll
+C:\Users\小伤刘\Desktop\联系\联系\bin\Debug\netcoreapp3.1\联系.pdb
+C:\Users\小伤刘\Desktop\联系\联系\obj\Debug\netcoreapp3.1\联系.csproj.AssemblyReference.cache
+C:\Users\小伤刘\Desktop\联系\联系\obj\Debug\netcoreapp3.1\联系.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\小伤刘\Desktop\联系\联系\obj\Debug\netcoreapp3.1\联系.AssemblyInfoInputs.cache
+C:\Users\小伤刘\Desktop\联系\联系\obj\Debug\netcoreapp3.1\联系.AssemblyInfo.cs
+C:\Users\小伤刘\Desktop\联系\联系\obj\Debug\netcoreapp3.1\联系.csproj.CoreCompileInputs.cache
+C:\Users\小伤刘\Desktop\联系\联系\obj\Debug\netcoreapp3.1\联系.dll
+C:\Users\小伤刘\Desktop\联系\联系\obj\Debug\netcoreapp3.1\联系.pdb
+C:\Users\小伤刘\Desktop\联系\联系\obj\Debug\netcoreapp3.1\联系.genruntimeconfig.cache

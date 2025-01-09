@@ -1,0 +1,11 @@
+
+public Animator anim;
+
+float faceDirection=Input.GetAxisRaw("Horizontal");
+Input.GetAxisRaw只能获得三个数字，0，1，-1；
+anim.SetFloat("running", Mathf.Abs(faceDirection));
+意思就是，当你按下移动键时，faceDirection值为1或者-1，此时动画执行run，等为0的时候，执行idle
+
+
+running 是在Animator窗口设置的float组件，
+faceDirection

@@ -1,0 +1,14 @@
+C:\Users\小伤刘\Desktop\方法的练习2\方法的练习2\bin\Debug\netcoreapp3.1\方法的练习2.exe
+C:\Users\小伤刘\Desktop\方法的练习2\方法的练习2\bin\Debug\netcoreapp3.1\方法的练习2.deps.json
+C:\Users\小伤刘\Desktop\方法的练习2\方法的练习2\bin\Debug\netcoreapp3.1\方法的练习2.runtimeconfig.json
+C:\Users\小伤刘\Desktop\方法的练习2\方法的练习2\bin\Debug\netcoreapp3.1\方法的练习2.runtimeconfig.dev.json
+C:\Users\小伤刘\Desktop\方法的练习2\方法的练习2\bin\Debug\netcoreapp3.1\方法的练习2.dll
+C:\Users\小伤刘\Desktop\方法的练习2\方法的练习2\bin\Debug\netcoreapp3.1\方法的练习2.pdb
+C:\Users\小伤刘\Desktop\方法的练习2\方法的练习2\obj\Debug\netcoreapp3.1\方法的练习2.csproj.AssemblyReference.cache
+C:\Users\小伤刘\Desktop\方法的练习2\方法的练习2\obj\Debug\netcoreapp3.1\方法的练习2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\小伤刘\Desktop\方法的练习2\方法的练习2\obj\Debug\netcoreapp3.1\方法的练习2.AssemblyInfoInputs.cache
+C:\Users\小伤刘\Desktop\方法的练习2\方法的练习2\obj\Debug\netcoreapp3.1\方法的练习2.AssemblyInfo.cs
+C:\Users\小伤刘\Desktop\方法的练习2\方法的练习2\obj\Debug\netcoreapp3.1\方法的练习2.csproj.CoreCompileInputs.cache
+C:\Users\小伤刘\Desktop\方法的练习2\方法的练习2\obj\Debug\netcoreapp3.1\方法的练习2.dll
+C:\Users\小伤刘\Desktop\方法的练习2\方法的练习2\obj\Debug\netcoreapp3.1\方法的练习2.pdb
+C:\Users\小伤刘\Desktop\方法的练习2\方法的练习2\obj\Debug\netcoreapp3.1\方法的练习2.genruntimeconfig.cache

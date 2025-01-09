@@ -1,0 +1,45 @@
+    
+{
+    public float patrolSpeed;//移动速度
+    public float patrolWiteTime;//规定停留时间
+    public Transform patrolPoints;
+    private NavMeshAgent agent;
+    private float patrolTime;//停留时间
+    private int wayPointIndex;//目标停留点
+    // Start is called before the first frame update
+    void Start()
+    {
+        agent = GetComponent<NavMeshAgent>();
+    }
+
+    // Update is called once per frame
+    void Update()
+    {
+        Patrolling();
+    }
+    void Patrolling()
+    {
+        agent.isStopped = false;//刚开始的时候 自动寻路
+        agent.speed = patrolSpeed;//自动寻路的速度
+        if (agent.remainingDistance <= agent.stoppingDistance)//判断敌人是否移动到目标点
+        {
+            patrolTime += Time.deltaTime;//停留时间
+            if (patrolTime >= patrolWiteTime)//判断停留时间是否大于规定时间
+            {
+                if (wayPointIndex == patrolPoints.childCount - 1)
+                {
+                    wayPointIndex = 0;
+                }
+                else
+                {
+                    wayPointIndex++;
+                }
+                patrolTime = 0;
+            }
+        }
+        else
+        {
+            patrolTime = 0;
+        }
+        agent.destination = patrolPoints.GetChild(wayPointIndex).position;
+    }

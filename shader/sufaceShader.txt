@@ -1,0 +1,17 @@
+surface shader结构
+
+1，没有pass
+
+Vertex 定义定点着色器的入口函数
+surf    surface  入口，可以看成片段着色器
+
+入口函数可以定义：顶点，surf ，灯光，finalColor
+
+Lambert  定义灯光作用的入口函数
+
+Finalcolor  ：计算雾 最后一次计算像素的入口函数
+
+
+顶点渲染流程
+
+Vertex ——>Surf——>Lambert——>Finalcolor

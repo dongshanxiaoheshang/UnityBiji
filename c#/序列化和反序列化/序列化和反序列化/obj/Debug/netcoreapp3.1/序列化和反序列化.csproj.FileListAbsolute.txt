@@ -1,0 +1,14 @@
+C:\Users\小伤刘\Desktop\c#\序列化和反序列化\序列化和反序列化\bin\Debug\netcoreapp3.1\序列化和反序列化.exe
+C:\Users\小伤刘\Desktop\c#\序列化和反序列化\序列化和反序列化\bin\Debug\netcoreapp3.1\序列化和反序列化.deps.json
+C:\Users\小伤刘\Desktop\c#\序列化和反序列化\序列化和反序列化\bin\Debug\netcoreapp3.1\序列化和反序列化.runtimeconfig.json
+C:\Users\小伤刘\Desktop\c#\序列化和反序列化\序列化和反序列化\bin\Debug\netcoreapp3.1\序列化和反序列化.runtimeconfig.dev.json
+C:\Users\小伤刘\Desktop\c#\序列化和反序列化\序列化和反序列化\bin\Debug\netcoreapp3.1\序列化和反序列化.dll
+C:\Users\小伤刘\Desktop\c#\序列化和反序列化\序列化和反序列化\bin\Debug\netcoreapp3.1\序列化和反序列化.pdb
+C:\Users\小伤刘\Desktop\c#\序列化和反序列化\序列化和反序列化\obj\Debug\netcoreapp3.1\序列化和反序列化.csproj.AssemblyReference.cache
+C:\Users\小伤刘\Desktop\c#\序列化和反序列化\序列化和反序列化\obj\Debug\netcoreapp3.1\序列化和反序列化.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\小伤刘\Desktop\c#\序列化和反序列化\序列化和反序列化\obj\Debug\netcoreapp3.1\序列化和反序列化.AssemblyInfoInputs.cache
+C:\Users\小伤刘\Desktop\c#\序列化和反序列化\序列化和反序列化\obj\Debug\netcoreapp3.1\序列化和反序列化.AssemblyInfo.cs
+C:\Users\小伤刘\Desktop\c#\序列化和反序列化\序列化和反序列化\obj\Debug\netcoreapp3.1\序列化和反序列化.csproj.CoreCompileInputs.cache
+C:\Users\小伤刘\Desktop\c#\序列化和反序列化\序列化和反序列化\obj\Debug\netcoreapp3.1\序列化和反序列化.dll
+C:\Users\小伤刘\Desktop\c#\序列化和反序列化\序列化和反序列化\obj\Debug\netcoreapp3.1\序列化和反序列化.pdb
+C:\Users\小伤刘\Desktop\c#\序列化和反序列化\序列化和反序列化\obj\Debug\netcoreapp3.1\序列化和反序列化.genruntimeconfig.cache

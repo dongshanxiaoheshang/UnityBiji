@@ -1,0 +1,8 @@
+ Time.timeScale = 0f;    暂停游戏
+Time.timeScale = 1f;   恢复游戏
+Application.Quit();      退出游戏
+
+
+ SceneManager.LoadScene(SceneManager.GetActiveScene().name);    //重新开始
+
+SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 1);    //加载新场景

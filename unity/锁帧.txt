@@ -1,0 +1,7 @@
+      
+
+
+
+       QualitySettings.vSyncCount = 0;//垂直同步
+        Application.targetFrameRate = 50;//设定应用程序帧数为50；
+帧数越高，运行越流畅。

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32106.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "方法的练习2", "方法的练习2\方法的练习2.csproj", "{4D99330C-5AC5-4740-BB36-7386B7DABBAF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4D99330C-5AC5-4740-BB36-7386B7DABBAF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D99330C-5AC5-4740-BB36-7386B7DABBAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D99330C-5AC5-4740-BB36-7386B7DABBAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D99330C-5AC5-4740-BB36-7386B7DABBAF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {620A7A09-3145-43EB-97F5-881F718B458E}
+	EndGlobalSection
+EndGlobal

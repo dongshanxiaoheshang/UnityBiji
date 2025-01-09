@@ -1,0 +1,87 @@
+
+      public float speed=0.1f;
+
+       float horizonl = Input.GetAxisRaw("Horizontal");
+        float vertical = Input.GetAxisRaw("Vertical");
+
+        Vector2 position = transform.position;
+        position.x = position.x + speed*horizonl*Time.deltaTime;
+        position.y = position.y + speed*vertical*Time.deltaTime;
+        transform.position = position;
+
+
+
+
+固定物理帧，修改主角与碰撞器发生碰撞时的抖动问题
+ public float speed;
+    Rigidbody rd2D;
+float h;
+    float v;
+    // Start is called before the first frame update
+    void Start()
+    {
+        rd2D = GetComponent<Rigidbody>();
+    }
+
+
+
+    private void FixedUpdate()
+    {
+        h = Input.GetAxisRaw("Horizontai");
+        v = Input.GetAxisRaw("Vertical");
+        Vector2 position = transform.position;
+        position.x = position.x + speed * h * Time.deltaTime;
+        position.y = position.y + speed * v * Time.deltaTime;
+        rd2D.position = position;
+    }
+
+
+
+
+
+
+transform。position+=new vector3(h，0，v)*speed*Time.delateTime;
+
+
+rd.velocity = new Vector2(h * speed * Time.fixedDeltaTime, v * speed * Time.fixedDeltaTime);
+
+
+
+float h = Input.GetAxis("Horizontal");//-1---1;
+        float faceDirection=Input.GetAxisRaw("Horizontal");
+        if (h != 0)
+        {
+            rb.velocity = new Vector2(h * speedMove*Time.deltaTime , rb.velocity.y);
+            //调用动画
+            anim.SetFloat("running", Mathf.Abs(faceDirection));
+        }
+        if (faceDirection != 0)
+        {
+            transform.localScale = new Vector3(faceDirection, 1, 1);         //朝向问题
+        }
+
+
+
+
+
+
+
+
+
+
+
+
+
+3d中的移动。
+
+     float h = Input.GetAxis("Horizontal");
+        float v = Input.GetAxis("Vertical");
+        //transform.position += new Vector3(h * speed * Time.deltaTime, 0, v * speed * Time.deltaTime);
+        transform.position += transform.forward * v * speed * Time.deltaTime;
+        transform.eulerAngles += new Vector3(0, h, 0);
+
+
+
+
+
+this.transform.Translate(new Vector3(h * speed * Time.deltaTime, 0f, v * speed * Time.deltaTime));

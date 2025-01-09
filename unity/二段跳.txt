@@ -1,0 +1,43 @@
+
+                                         二段跳
+
+Rigidbody rb2D;
+public float moveSpeed  
+public float  jumpForce 
+public LayerMask ground   地面
+public int jumpNum    跳跃次数。
+int remainJumNum    剩余跳跃次数
+
+ void Start
+{
+     rd2D=new getcomponent<Rigidbody>();  获得刚体
+     rd2D.gravityStayle=3   重力
+}
+public void Update
+{
+     rd2D.velocity=new vector(input.GetAxisRaw("Horizontal")*moveSpeed,rb2D.velocity.y);
+     //如果小球接触地面且熟知方向速度为零
+     if（rb2D.IsTouchingLayers(ground)&&rb2D.velocity.y==0）
+     {
+        //重置跳跃次数
+        remainJumNum=jumNum; 
+     }
+    //如果按下空格键且还有跳跃次数，则小球向上跳跃
+      if(input.GetkeyDown(Key.Code.Space)&&remainjumnum-->0)
+     {
+     rb2D.velocity=new vector(rb2D.velocity.x，jumforce);
+remainjumnum--；
+         // rb2D.velocity=Vector2.up*jumforce;
+
+     }
+}
+
+
+
+
+
+
+
+
+
+Physics2D.OverlapCircle(GroundCheck.position，0.2f，ground)'

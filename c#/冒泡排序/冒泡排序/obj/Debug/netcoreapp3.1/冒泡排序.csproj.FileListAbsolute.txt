@@ -1,0 +1,14 @@
+C:\Users\小伤刘\source\repos\冒泡排序\冒泡排序\bin\Debug\netcoreapp3.1\冒泡排序.exe
+C:\Users\小伤刘\source\repos\冒泡排序\冒泡排序\bin\Debug\netcoreapp3.1\冒泡排序.deps.json
+C:\Users\小伤刘\source\repos\冒泡排序\冒泡排序\bin\Debug\netcoreapp3.1\冒泡排序.runtimeconfig.json
+C:\Users\小伤刘\source\repos\冒泡排序\冒泡排序\bin\Debug\netcoreapp3.1\冒泡排序.runtimeconfig.dev.json
+C:\Users\小伤刘\source\repos\冒泡排序\冒泡排序\bin\Debug\netcoreapp3.1\冒泡排序.dll
+C:\Users\小伤刘\source\repos\冒泡排序\冒泡排序\bin\Debug\netcoreapp3.1\冒泡排序.pdb
+C:\Users\小伤刘\source\repos\冒泡排序\冒泡排序\obj\Debug\netcoreapp3.1\冒泡排序.csproj.AssemblyReference.cache
+C:\Users\小伤刘\source\repos\冒泡排序\冒泡排序\obj\Debug\netcoreapp3.1\冒泡排序.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\小伤刘\source\repos\冒泡排序\冒泡排序\obj\Debug\netcoreapp3.1\冒泡排序.AssemblyInfoInputs.cache
+C:\Users\小伤刘\source\repos\冒泡排序\冒泡排序\obj\Debug\netcoreapp3.1\冒泡排序.AssemblyInfo.cs
+C:\Users\小伤刘\source\repos\冒泡排序\冒泡排序\obj\Debug\netcoreapp3.1\冒泡排序.csproj.CoreCompileInputs.cache
+C:\Users\小伤刘\source\repos\冒泡排序\冒泡排序\obj\Debug\netcoreapp3.1\冒泡排序.dll
+C:\Users\小伤刘\source\repos\冒泡排序\冒泡排序\obj\Debug\netcoreapp3.1\冒泡排序.pdb
+C:\Users\小伤刘\source\repos\冒泡排序\冒泡排序\obj\Debug\netcoreapp3.1\冒泡排序.genruntimeconfig.cache

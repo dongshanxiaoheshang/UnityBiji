@@ -1,0 +1,13 @@
+using unityEnger。SceneManager
+
+
+
+
+
+SceneManager.LoadScene(SceneMeneger.GetActiveScene().name)://重新加载某个场景
+
+//禁止音源播放
+GetComponent<AudioSource>().enabled = false;\
+
+
+SceneManager.LoadScene(SceneMeneger.GetActiveScene().ident+1)   加载下个场景

@@ -1,0 +1,14 @@
+C:\Users\小伤刘\Desktop\c#\Filestream\Filestream\bin\Debug\netcoreapp3.1\Filestream.exe
+C:\Users\小伤刘\Desktop\c#\Filestream\Filestream\bin\Debug\netcoreapp3.1\Filestream.deps.json
+C:\Users\小伤刘\Desktop\c#\Filestream\Filestream\bin\Debug\netcoreapp3.1\Filestream.runtimeconfig.json
+C:\Users\小伤刘\Desktop\c#\Filestream\Filestream\bin\Debug\netcoreapp3.1\Filestream.runtimeconfig.dev.json
+C:\Users\小伤刘\Desktop\c#\Filestream\Filestream\bin\Debug\netcoreapp3.1\Filestream.dll
+C:\Users\小伤刘\Desktop\c#\Filestream\Filestream\bin\Debug\netcoreapp3.1\Filestream.pdb
+C:\Users\小伤刘\Desktop\c#\Filestream\Filestream\obj\Debug\netcoreapp3.1\Filestream.csproj.AssemblyReference.cache
+C:\Users\小伤刘\Desktop\c#\Filestream\Filestream\obj\Debug\netcoreapp3.1\Filestream.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\小伤刘\Desktop\c#\Filestream\Filestream\obj\Debug\netcoreapp3.1\Filestream.AssemblyInfoInputs.cache
+C:\Users\小伤刘\Desktop\c#\Filestream\Filestream\obj\Debug\netcoreapp3.1\Filestream.AssemblyInfo.cs
+C:\Users\小伤刘\Desktop\c#\Filestream\Filestream\obj\Debug\netcoreapp3.1\Filestream.csproj.CoreCompileInputs.cache
+C:\Users\小伤刘\Desktop\c#\Filestream\Filestream\obj\Debug\netcoreapp3.1\Filestream.dll
+C:\Users\小伤刘\Desktop\c#\Filestream\Filestream\obj\Debug\netcoreapp3.1\Filestream.pdb
+C:\Users\小伤刘\Desktop\c#\Filestream\Filestream\obj\Debug\netcoreapp3.1\Filestream.genruntimeconfig.cache

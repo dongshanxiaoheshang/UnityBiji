@@ -1,0 +1,13 @@
+C:\Users\小伤刘\Desktop\c#\抽象类\抽象类\bin\Debug\netcoreapp3.1\抽象类.exe
+C:\Users\小伤刘\Desktop\c#\抽象类\抽象类\bin\Debug\netcoreapp3.1\抽象类.deps.json
+C:\Users\小伤刘\Desktop\c#\抽象类\抽象类\bin\Debug\netcoreapp3.1\抽象类.runtimeconfig.json
+C:\Users\小伤刘\Desktop\c#\抽象类\抽象类\bin\Debug\netcoreapp3.1\抽象类.runtimeconfig.dev.json
+C:\Users\小伤刘\Desktop\c#\抽象类\抽象类\bin\Debug\netcoreapp3.1\抽象类.dll
+C:\Users\小伤刘\Desktop\c#\抽象类\抽象类\bin\Debug\netcoreapp3.1\抽象类.pdb
+C:\Users\小伤刘\Desktop\c#\抽象类\抽象类\obj\Debug\netcoreapp3.1\抽象类.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\小伤刘\Desktop\c#\抽象类\抽象类\obj\Debug\netcoreapp3.1\抽象类.AssemblyInfoInputs.cache
+C:\Users\小伤刘\Desktop\c#\抽象类\抽象类\obj\Debug\netcoreapp3.1\抽象类.AssemblyInfo.cs
+C:\Users\小伤刘\Desktop\c#\抽象类\抽象类\obj\Debug\netcoreapp3.1\抽象类.csproj.CoreCompileInputs.cache
+C:\Users\小伤刘\Desktop\c#\抽象类\抽象类\obj\Debug\netcoreapp3.1\抽象类.dll
+C:\Users\小伤刘\Desktop\c#\抽象类\抽象类\obj\Debug\netcoreapp3.1\抽象类.pdb
+C:\Users\小伤刘\Desktop\c#\抽象类\抽象类\obj\Debug\netcoreapp3.1\抽象类.genruntimeconfig.cache

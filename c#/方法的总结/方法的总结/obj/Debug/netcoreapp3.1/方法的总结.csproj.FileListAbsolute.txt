@@ -1,0 +1,14 @@
+C:\Users\小伤刘\Desktop\c#\方法的总结\方法的总结\bin\Debug\netcoreapp3.1\方法的总结.exe
+C:\Users\小伤刘\Desktop\c#\方法的总结\方法的总结\bin\Debug\netcoreapp3.1\方法的总结.deps.json
+C:\Users\小伤刘\Desktop\c#\方法的总结\方法的总结\bin\Debug\netcoreapp3.1\方法的总结.runtimeconfig.json
+C:\Users\小伤刘\Desktop\c#\方法的总结\方法的总结\bin\Debug\netcoreapp3.1\方法的总结.runtimeconfig.dev.json
+C:\Users\小伤刘\Desktop\c#\方法的总结\方法的总结\bin\Debug\netcoreapp3.1\方法的总结.dll
+C:\Users\小伤刘\Desktop\c#\方法的总结\方法的总结\bin\Debug\netcoreapp3.1\方法的总结.pdb
+C:\Users\小伤刘\Desktop\c#\方法的总结\方法的总结\obj\Debug\netcoreapp3.1\方法的总结.csproj.AssemblyReference.cache
+C:\Users\小伤刘\Desktop\c#\方法的总结\方法的总结\obj\Debug\netcoreapp3.1\方法的总结.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\小伤刘\Desktop\c#\方法的总结\方法的总结\obj\Debug\netcoreapp3.1\方法的总结.AssemblyInfoInputs.cache
+C:\Users\小伤刘\Desktop\c#\方法的总结\方法的总结\obj\Debug\netcoreapp3.1\方法的总结.AssemblyInfo.cs
+C:\Users\小伤刘\Desktop\c#\方法的总结\方法的总结\obj\Debug\netcoreapp3.1\方法的总结.csproj.CoreCompileInputs.cache
+C:\Users\小伤刘\Desktop\c#\方法的总结\方法的总结\obj\Debug\netcoreapp3.1\方法的总结.dll
+C:\Users\小伤刘\Desktop\c#\方法的总结\方法的总结\obj\Debug\netcoreapp3.1\方法的总结.pdb
+C:\Users\小伤刘\Desktop\c#\方法的总结\方法的总结\obj\Debug\netcoreapp3.1\方法的总结.genruntimeconfig.cache

@@ -1,0 +1,28 @@
+使用协程
+lEnumerator作为协程函数返回值
+使用StartCoroutine来启用协程
+●可以通过返回等待时间来延迟下次调用
+●WaitForSeconds
+.使用StopCoroutine或StopAllCoroutines来停止协程
+
+
+
+
+
+void   Update()
+if (Input . GetKeyDown(KeyCode .F)){
+
+StartCoroutine("Fade");//开始调用协程函数
+}
+}
+
+//协程函数，
+IEnumerator Fade( )
+for (float f = 1f;f>=0;f-=0.1f)
+{
+Color C = GetComponent<MeshRenderer>( ) . material . color ;
+c.a=f；
+GetComponent <MeshRenderer>() . material.color = c;
+yield  return new WaitForSeconds(0. 1f)
+}
+}

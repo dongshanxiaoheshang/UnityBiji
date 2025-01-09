@@ -1,0 +1,8 @@
+
+bool isOped;
+ if (Input.GetKeyDown(KeyCode.0))
+{
+ isOpen =!isDpen;
+
+名称.SetActive(isOpen);
+}

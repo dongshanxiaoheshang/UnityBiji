@@ -1,0 +1,35 @@
+ //用四元数来表示转向。
+    Quaternion m_rotation = Quaternion.identity;//初始化四元数对象，初始化不旋转。
+
+
+//判断是否有横向移动或者纵向移动。
+        bool HasHorizontal = !Mathf.Approximately(h, 0.0f);
+        bool HasVertical = !Mathf.Approximately(v, 0.0f);
+/
+        bool isWalking = HasHorizontal || HasVertical;
+
+        m_animator.SetBool("IsWalking", isWalking);
+
+
+在 Unity 中，可以检查从某个点开始的直线路径上是否存在任何碰撞体。从特定点开始的这条线称为射线。沿此射线检查碰撞体称为射线投射 (Raycast)。
+
+
+if (m_IsPlayerInRange)
+        {
+            //设置射线用的方向适量。（玩家的向量减去触发器的向量）
+            Vector3 direction = player.position - transform.position + Vector3.up;
+            //创建射线
+            Ray ray = new Ray(transform.position, direction);
+            //射线击中对象，包含射线碰撞信息
+            RaycastHit raycastHit;
+
+            //发射射线，如果射线碰到玩家，进入第一层if
+            //out 代表的第二个参数是输出参数，可以带出数据到参数中。
+            if(Physics.Raycast(ray,out raycastHit))
+            {
+                if (raycastHit.collider.transform == player)
+                {
+                    gameEnding.CaughtPlayer();
+                }
+            }
+        }

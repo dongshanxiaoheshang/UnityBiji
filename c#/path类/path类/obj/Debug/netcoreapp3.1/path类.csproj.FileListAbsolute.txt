@@ -1,0 +1,14 @@
+C:\Users\小伤刘\Desktop\c#\path类\path类\bin\Debug\netcoreapp3.1\path类.exe
+C:\Users\小伤刘\Desktop\c#\path类\path类\bin\Debug\netcoreapp3.1\path类.deps.json
+C:\Users\小伤刘\Desktop\c#\path类\path类\bin\Debug\netcoreapp3.1\path类.runtimeconfig.json
+C:\Users\小伤刘\Desktop\c#\path类\path类\bin\Debug\netcoreapp3.1\path类.runtimeconfig.dev.json
+C:\Users\小伤刘\Desktop\c#\path类\path类\bin\Debug\netcoreapp3.1\path类.dll
+C:\Users\小伤刘\Desktop\c#\path类\path类\bin\Debug\netcoreapp3.1\path类.pdb
+C:\Users\小伤刘\Desktop\c#\path类\path类\obj\Debug\netcoreapp3.1\path类.csproj.AssemblyReference.cache
+C:\Users\小伤刘\Desktop\c#\path类\path类\obj\Debug\netcoreapp3.1\path类.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\小伤刘\Desktop\c#\path类\path类\obj\Debug\netcoreapp3.1\path类.AssemblyInfoInputs.cache
+C:\Users\小伤刘\Desktop\c#\path类\path类\obj\Debug\netcoreapp3.1\path类.AssemblyInfo.cs
+C:\Users\小伤刘\Desktop\c#\path类\path类\obj\Debug\netcoreapp3.1\path类.csproj.CoreCompileInputs.cache
+C:\Users\小伤刘\Desktop\c#\path类\path类\obj\Debug\netcoreapp3.1\path类.dll
+C:\Users\小伤刘\Desktop\c#\path类\path类\obj\Debug\netcoreapp3.1\path类.pdb
+C:\Users\小伤刘\Desktop\c#\path类\path类\obj\Debug\netcoreapp3.1\path类.genruntimeconfig.cache

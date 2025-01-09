@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32106.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "飞行器小游戏", "飞行器小游戏\飞行器小游戏.csproj", "{FC3748F6-5A35-42E5-81A5-6A34FAD10099}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FC3748F6-5A35-42E5-81A5-6A34FAD10099}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC3748F6-5A35-42E5-81A5-6A34FAD10099}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC3748F6-5A35-42E5-81A5-6A34FAD10099}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC3748F6-5A35-42E5-81A5-6A34FAD10099}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {921109C3-8003-41C6-8BC5-3F021336D06B}
+	EndGlobalSection
+EndGlobal

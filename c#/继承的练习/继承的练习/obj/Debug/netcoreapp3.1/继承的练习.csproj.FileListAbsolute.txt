@@ -1,0 +1,14 @@
+C:\Users\小伤刘\Desktop\c#\继承的练习\继承的练习\obj\Debug\netcoreapp3.1\继承的练习.csproj.AssemblyReference.cache
+C:\Users\小伤刘\Desktop\c#\继承的练习\继承的练习\obj\Debug\netcoreapp3.1\继承的练习.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\小伤刘\Desktop\c#\继承的练习\继承的练习\obj\Debug\netcoreapp3.1\继承的练习.AssemblyInfoInputs.cache
+C:\Users\小伤刘\Desktop\c#\继承的练习\继承的练习\obj\Debug\netcoreapp3.1\继承的练习.AssemblyInfo.cs
+C:\Users\小伤刘\Desktop\c#\继承的练习\继承的练习\obj\Debug\netcoreapp3.1\继承的练习.csproj.CoreCompileInputs.cache
+C:\Users\小伤刘\Desktop\c#\继承的练习\继承的练习\bin\Debug\netcoreapp3.1\继承的练习.exe
+C:\Users\小伤刘\Desktop\c#\继承的练习\继承的练习\bin\Debug\netcoreapp3.1\继承的练习.deps.json
+C:\Users\小伤刘\Desktop\c#\继承的练习\继承的练习\bin\Debug\netcoreapp3.1\继承的练习.runtimeconfig.json
+C:\Users\小伤刘\Desktop\c#\继承的练习\继承的练习\bin\Debug\netcoreapp3.1\继承的练习.runtimeconfig.dev.json
+C:\Users\小伤刘\Desktop\c#\继承的练习\继承的练习\bin\Debug\netcoreapp3.1\继承的练习.dll
+C:\Users\小伤刘\Desktop\c#\继承的练习\继承的练习\bin\Debug\netcoreapp3.1\继承的练习.pdb
+C:\Users\小伤刘\Desktop\c#\继承的练习\继承的练习\obj\Debug\netcoreapp3.1\继承的练习.dll
+C:\Users\小伤刘\Desktop\c#\继承的练习\继承的练习\obj\Debug\netcoreapp3.1\继承的练习.pdb
+C:\Users\小伤刘\Desktop\c#\继承的练习\继承的练习\obj\Debug\netcoreapp3.1\继承的练习.genruntimeconfig.cache

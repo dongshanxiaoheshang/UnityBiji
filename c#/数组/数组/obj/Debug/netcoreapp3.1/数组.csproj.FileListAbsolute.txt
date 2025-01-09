@@ -1,0 +1,14 @@
+C:\Users\小伤刘\Desktop\数组\数组\bin\Debug\netcoreapp3.1\数组.exe
+C:\Users\小伤刘\Desktop\数组\数组\bin\Debug\netcoreapp3.1\数组.deps.json
+C:\Users\小伤刘\Desktop\数组\数组\bin\Debug\netcoreapp3.1\数组.runtimeconfig.json
+C:\Users\小伤刘\Desktop\数组\数组\bin\Debug\netcoreapp3.1\数组.runtimeconfig.dev.json
+C:\Users\小伤刘\Desktop\数组\数组\bin\Debug\netcoreapp3.1\数组.dll
+C:\Users\小伤刘\Desktop\数组\数组\bin\Debug\netcoreapp3.1\数组.pdb
+C:\Users\小伤刘\Desktop\数组\数组\obj\Debug\netcoreapp3.1\数组.csproj.AssemblyReference.cache
+C:\Users\小伤刘\Desktop\数组\数组\obj\Debug\netcoreapp3.1\数组.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\小伤刘\Desktop\数组\数组\obj\Debug\netcoreapp3.1\数组.AssemblyInfoInputs.cache
+C:\Users\小伤刘\Desktop\数组\数组\obj\Debug\netcoreapp3.1\数组.AssemblyInfo.cs
+C:\Users\小伤刘\Desktop\数组\数组\obj\Debug\netcoreapp3.1\数组.csproj.CoreCompileInputs.cache
+C:\Users\小伤刘\Desktop\数组\数组\obj\Debug\netcoreapp3.1\数组.dll
+C:\Users\小伤刘\Desktop\数组\数组\obj\Debug\netcoreapp3.1\数组.pdb
+C:\Users\小伤刘\Desktop\数组\数组\obj\Debug\netcoreapp3.1\数组.genruntimeconfig.cache

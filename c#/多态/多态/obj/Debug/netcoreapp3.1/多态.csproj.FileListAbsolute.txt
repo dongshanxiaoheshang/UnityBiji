@@ -1,0 +1,14 @@
+C:\Users\小伤刘\Desktop\c#\多态\多态\bin\Debug\netcoreapp3.1\多态.exe
+C:\Users\小伤刘\Desktop\c#\多态\多态\bin\Debug\netcoreapp3.1\多态.deps.json
+C:\Users\小伤刘\Desktop\c#\多态\多态\bin\Debug\netcoreapp3.1\多态.runtimeconfig.json
+C:\Users\小伤刘\Desktop\c#\多态\多态\bin\Debug\netcoreapp3.1\多态.runtimeconfig.dev.json
+C:\Users\小伤刘\Desktop\c#\多态\多态\bin\Debug\netcoreapp3.1\多态.dll
+C:\Users\小伤刘\Desktop\c#\多态\多态\bin\Debug\netcoreapp3.1\多态.pdb
+C:\Users\小伤刘\Desktop\c#\多态\多态\obj\Debug\netcoreapp3.1\多态.csproj.AssemblyReference.cache
+C:\Users\小伤刘\Desktop\c#\多态\多态\obj\Debug\netcoreapp3.1\多态.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\小伤刘\Desktop\c#\多态\多态\obj\Debug\netcoreapp3.1\多态.AssemblyInfoInputs.cache
+C:\Users\小伤刘\Desktop\c#\多态\多态\obj\Debug\netcoreapp3.1\多态.AssemblyInfo.cs
+C:\Users\小伤刘\Desktop\c#\多态\多态\obj\Debug\netcoreapp3.1\多态.csproj.CoreCompileInputs.cache
+C:\Users\小伤刘\Desktop\c#\多态\多态\obj\Debug\netcoreapp3.1\多态.dll
+C:\Users\小伤刘\Desktop\c#\多态\多态\obj\Debug\netcoreapp3.1\多态.pdb
+C:\Users\小伤刘\Desktop\c#\多态\多态\obj\Debug\netcoreapp3.1\多态.genruntimeconfig.cache

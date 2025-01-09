@@ -1,0 +1,14 @@
+C:\Users\小伤刘\Desktop\c#\使用文件流控制多媒体文件的复制\使用文件流控制多媒体文件的复制\bin\Debug\netcoreapp3.1\使用文件流控制多媒体文件的复制.exe
+C:\Users\小伤刘\Desktop\c#\使用文件流控制多媒体文件的复制\使用文件流控制多媒体文件的复制\bin\Debug\netcoreapp3.1\使用文件流控制多媒体文件的复制.deps.json
+C:\Users\小伤刘\Desktop\c#\使用文件流控制多媒体文件的复制\使用文件流控制多媒体文件的复制\bin\Debug\netcoreapp3.1\使用文件流控制多媒体文件的复制.runtimeconfig.json
+C:\Users\小伤刘\Desktop\c#\使用文件流控制多媒体文件的复制\使用文件流控制多媒体文件的复制\bin\Debug\netcoreapp3.1\使用文件流控制多媒体文件的复制.runtimeconfig.dev.json
+C:\Users\小伤刘\Desktop\c#\使用文件流控制多媒体文件的复制\使用文件流控制多媒体文件的复制\bin\Debug\netcoreapp3.1\使用文件流控制多媒体文件的复制.dll
+C:\Users\小伤刘\Desktop\c#\使用文件流控制多媒体文件的复制\使用文件流控制多媒体文件的复制\bin\Debug\netcoreapp3.1\使用文件流控制多媒体文件的复制.pdb
+C:\Users\小伤刘\Desktop\c#\使用文件流控制多媒体文件的复制\使用文件流控制多媒体文件的复制\obj\Debug\netcoreapp3.1\使用文件流控制多媒体文件的复制.csproj.AssemblyReference.cache
+C:\Users\小伤刘\Desktop\c#\使用文件流控制多媒体文件的复制\使用文件流控制多媒体文件的复制\obj\Debug\netcoreapp3.1\使用文件流控制多媒体文件的复制.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\小伤刘\Desktop\c#\使用文件流控制多媒体文件的复制\使用文件流控制多媒体文件的复制\obj\Debug\netcoreapp3.1\使用文件流控制多媒体文件的复制.AssemblyInfoInputs.cache
+C:\Users\小伤刘\Desktop\c#\使用文件流控制多媒体文件的复制\使用文件流控制多媒体文件的复制\obj\Debug\netcoreapp3.1\使用文件流控制多媒体文件的复制.AssemblyInfo.cs
+C:\Users\小伤刘\Desktop\c#\使用文件流控制多媒体文件的复制\使用文件流控制多媒体文件的复制\obj\Debug\netcoreapp3.1\使用文件流控制多媒体文件的复制.csproj.CoreCompileInputs.cache
+C:\Users\小伤刘\Desktop\c#\使用文件流控制多媒体文件的复制\使用文件流控制多媒体文件的复制\obj\Debug\netcoreapp3.1\使用文件流控制多媒体文件的复制.dll
+C:\Users\小伤刘\Desktop\c#\使用文件流控制多媒体文件的复制\使用文件流控制多媒体文件的复制\obj\Debug\netcoreapp3.1\使用文件流控制多媒体文件的复制.pdb
+C:\Users\小伤刘\Desktop\c#\使用文件流控制多媒体文件的复制\使用文件流控制多媒体文件的复制\obj\Debug\netcoreapp3.1\使用文件流控制多媒体文件的复制.genruntimeconfig.cache

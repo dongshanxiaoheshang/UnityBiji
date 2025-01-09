@@ -1,0 +1,14 @@
+C:\Users\小伤刘\Desktop\c#\简单工厂设计模式\简单工厂设计模式\bin\Debug\netcoreapp3.1\简单工厂设计模式.exe
+C:\Users\小伤刘\Desktop\c#\简单工厂设计模式\简单工厂设计模式\bin\Debug\netcoreapp3.1\简单工厂设计模式.deps.json
+C:\Users\小伤刘\Desktop\c#\简单工厂设计模式\简单工厂设计模式\bin\Debug\netcoreapp3.1\简单工厂设计模式.runtimeconfig.json
+C:\Users\小伤刘\Desktop\c#\简单工厂设计模式\简单工厂设计模式\bin\Debug\netcoreapp3.1\简单工厂设计模式.runtimeconfig.dev.json
+C:\Users\小伤刘\Desktop\c#\简单工厂设计模式\简单工厂设计模式\bin\Debug\netcoreapp3.1\简单工厂设计模式.dll
+C:\Users\小伤刘\Desktop\c#\简单工厂设计模式\简单工厂设计模式\bin\Debug\netcoreapp3.1\简单工厂设计模式.pdb
+C:\Users\小伤刘\Desktop\c#\简单工厂设计模式\简单工厂设计模式\obj\Debug\netcoreapp3.1\简单工厂设计模式.csproj.AssemblyReference.cache
+C:\Users\小伤刘\Desktop\c#\简单工厂设计模式\简单工厂设计模式\obj\Debug\netcoreapp3.1\简单工厂设计模式.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\小伤刘\Desktop\c#\简单工厂设计模式\简单工厂设计模式\obj\Debug\netcoreapp3.1\简单工厂设计模式.AssemblyInfoInputs.cache
+C:\Users\小伤刘\Desktop\c#\简单工厂设计模式\简单工厂设计模式\obj\Debug\netcoreapp3.1\简单工厂设计模式.AssemblyInfo.cs
+C:\Users\小伤刘\Desktop\c#\简单工厂设计模式\简单工厂设计模式\obj\Debug\netcoreapp3.1\简单工厂设计模式.csproj.CoreCompileInputs.cache
+C:\Users\小伤刘\Desktop\c#\简单工厂设计模式\简单工厂设计模式\obj\Debug\netcoreapp3.1\简单工厂设计模式.dll
+C:\Users\小伤刘\Desktop\c#\简单工厂设计模式\简单工厂设计模式\obj\Debug\netcoreapp3.1\简单工厂设计模式.pdb
+C:\Users\小伤刘\Desktop\c#\简单工厂设计模式\简单工厂设计模式\obj\Debug\netcoreapp3.1\简单工厂设计模式.genruntimeconfig.cache

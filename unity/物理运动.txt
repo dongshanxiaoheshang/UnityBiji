@@ -1,0 +1,17 @@
+private void OnCollisionEnter(Collision other)
+{
+//other :获取对方碰撞器组件other.collider.GetComponetn<?>()
+print("OnCollisionEnter--" + other.collider.name);
+}
+
+
+
+
+
+
+
+
+触发条件
+两者具有碰撞组件
+其中之一带有刚体组件
+其中之一勾选isTrigger

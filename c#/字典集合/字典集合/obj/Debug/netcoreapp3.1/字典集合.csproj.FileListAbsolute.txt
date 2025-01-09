@@ -1,0 +1,13 @@
+C:\Users\小伤刘\Desktop\c#\字典集合\字典集合\bin\Debug\netcoreapp3.1\字典集合.exe
+C:\Users\小伤刘\Desktop\c#\字典集合\字典集合\bin\Debug\netcoreapp3.1\字典集合.deps.json
+C:\Users\小伤刘\Desktop\c#\字典集合\字典集合\bin\Debug\netcoreapp3.1\字典集合.runtimeconfig.json
+C:\Users\小伤刘\Desktop\c#\字典集合\字典集合\bin\Debug\netcoreapp3.1\字典集合.runtimeconfig.dev.json
+C:\Users\小伤刘\Desktop\c#\字典集合\字典集合\bin\Debug\netcoreapp3.1\字典集合.dll
+C:\Users\小伤刘\Desktop\c#\字典集合\字典集合\bin\Debug\netcoreapp3.1\字典集合.pdb
+C:\Users\小伤刘\Desktop\c#\字典集合\字典集合\obj\Debug\netcoreapp3.1\字典集合.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\小伤刘\Desktop\c#\字典集合\字典集合\obj\Debug\netcoreapp3.1\字典集合.AssemblyInfoInputs.cache
+C:\Users\小伤刘\Desktop\c#\字典集合\字典集合\obj\Debug\netcoreapp3.1\字典集合.AssemblyInfo.cs
+C:\Users\小伤刘\Desktop\c#\字典集合\字典集合\obj\Debug\netcoreapp3.1\字典集合.csproj.CoreCompileInputs.cache
+C:\Users\小伤刘\Desktop\c#\字典集合\字典集合\obj\Debug\netcoreapp3.1\字典集合.dll
+C:\Users\小伤刘\Desktop\c#\字典集合\字典集合\obj\Debug\netcoreapp3.1\字典集合.pdb
+C:\Users\小伤刘\Desktop\c#\字典集合\字典集合\obj\Debug\netcoreapp3.1\字典集合.genruntimeconfig.cache

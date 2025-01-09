@@ -1,0 +1,17 @@
+
+
+硬件所能达到的情况下，锁帧会降低游戏画面效果。
+你需要以单位/秒来表示 Ruby 的移动速度，而不是采用单位/帧
+为此，你需要通过将移动速度乘以 Unity 渲染一帧所需的时间来更改移动速度。
+如果游戏以每秒 10 帧的速度运行，则每帧耗时 0.1 秒。如果游戏以每秒 60 帧的速度运行，则每帧耗时 0.017 秒。
+如果将移动速度乘以该时间值，则移动速度将以秒表示。
+
+        public float speed=0.1f;
+
+       float horizonl = Input.GetAxisRaw("Horizontal");
+        float vertical = Input.GetAxisRaw("Vertical");
+
+        Vector2 position = transform.position;
+        position.x = position.x + speed*horizonl*Time.deltaTime;
+        position.y = position.y + speed*vertical*Time.deltaTime;
+        transform.position = position;

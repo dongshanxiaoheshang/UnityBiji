@@ -1,0 +1,55 @@
+   
+
+
+            定点着色器    ——>光栅化——>片段着色器——>alpha测试——>模板测试——>深度测试——>blend——>Gbuffer——>frontBuffer——>framebuffer——>显示器
+
+
+
+alpha测试符合条件的alpha像素显示出来，不符合的丢弃掉
+
+
+
+
+
+
+
+
+
+
+v3.灯光的作用
+Shader1.0灯光计算公式:
+AmbientLighting Window's Ambient Intensity setting + (Light Color * Difuse+Light ColorSpecular)+Emission
+Ambient:环境光
+Diffuse:漫反射
+Specular:镜面反射
+Emission:自发光
+Lighting On:灯光总开关
+SeparateSpecular On:高光开关
+\
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ShaderQ文件结构:
+#pragma vertex vert定义一个顶点着色器的入口函数
+#pragma fragment frag义一个片段着色器的入口函数
+语义:
+POSITION:获取模型顶点信息
+NORMAI:获取法线信息
+TEXCOORD(n):高精度的从顶点着色器传递信息到片段着色器，float2, float3, float4
+COLOR:表示低精度从顶点传递信息到片段着色器，float4
+TANGENT:获取切线信息
+SV_ POSITION:表示经过mvp矩阵已经转化到屏幕坐标系下的矩阵
+SV_ _Target:输出到哪个render target

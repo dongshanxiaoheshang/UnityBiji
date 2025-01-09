@@ -1,0 +1,5 @@
+C:\Users\小伤刘\Desktop\c#\里氏转换\里氏转换\obj\Debug\netcoreapp3.1\里氏转换.csproj.AssemblyReference.cache
+C:\Users\小伤刘\Desktop\c#\里氏转换\里氏转换\obj\Debug\netcoreapp3.1\里氏转换.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\小伤刘\Desktop\c#\里氏转换\里氏转换\obj\Debug\netcoreapp3.1\里氏转换.AssemblyInfoInputs.cache
+C:\Users\小伤刘\Desktop\c#\里氏转换\里氏转换\obj\Debug\netcoreapp3.1\里氏转换.AssemblyInfo.cs
+C:\Users\小伤刘\Desktop\c#\里氏转换\里氏转换\obj\Debug\netcoreapp3.1\里氏转换.csproj.CoreCompileInputs.cache

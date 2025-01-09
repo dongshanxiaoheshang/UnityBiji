@@ -1,0 +1,14 @@
+C:\Users\小伤刘\Desktop\c#\字符串的各种方法\字符串的各种方法\bin\Debug\netcoreapp3.1\字符串的各种方法.exe
+C:\Users\小伤刘\Desktop\c#\字符串的各种方法\字符串的各种方法\bin\Debug\netcoreapp3.1\字符串的各种方法.deps.json
+C:\Users\小伤刘\Desktop\c#\字符串的各种方法\字符串的各种方法\bin\Debug\netcoreapp3.1\字符串的各种方法.runtimeconfig.json
+C:\Users\小伤刘\Desktop\c#\字符串的各种方法\字符串的各种方法\bin\Debug\netcoreapp3.1\字符串的各种方法.runtimeconfig.dev.json
+C:\Users\小伤刘\Desktop\c#\字符串的各种方法\字符串的各种方法\bin\Debug\netcoreapp3.1\字符串的各种方法.dll
+C:\Users\小伤刘\Desktop\c#\字符串的各种方法\字符串的各种方法\bin\Debug\netcoreapp3.1\字符串的各种方法.pdb
+C:\Users\小伤刘\Desktop\c#\字符串的各种方法\字符串的各种方法\obj\Debug\netcoreapp3.1\字符串的各种方法.csproj.AssemblyReference.cache
+C:\Users\小伤刘\Desktop\c#\字符串的各种方法\字符串的各种方法\obj\Debug\netcoreapp3.1\字符串的各种方法.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\小伤刘\Desktop\c#\字符串的各种方法\字符串的各种方法\obj\Debug\netcoreapp3.1\字符串的各种方法.AssemblyInfoInputs.cache
+C:\Users\小伤刘\Desktop\c#\字符串的各种方法\字符串的各种方法\obj\Debug\netcoreapp3.1\字符串的各种方法.AssemblyInfo.cs
+C:\Users\小伤刘\Desktop\c#\字符串的各种方法\字符串的各种方法\obj\Debug\netcoreapp3.1\字符串的各种方法.csproj.CoreCompileInputs.cache
+C:\Users\小伤刘\Desktop\c#\字符串的各种方法\字符串的各种方法\obj\Debug\netcoreapp3.1\字符串的各种方法.dll
+C:\Users\小伤刘\Desktop\c#\字符串的各种方法\字符串的各种方法\obj\Debug\netcoreapp3.1\字符串的各种方法.pdb
+C:\Users\小伤刘\Desktop\c#\字符串的各种方法\字符串的各种方法\obj\Debug\netcoreapp3.1\字符串的各种方法.genruntimeconfig.cache

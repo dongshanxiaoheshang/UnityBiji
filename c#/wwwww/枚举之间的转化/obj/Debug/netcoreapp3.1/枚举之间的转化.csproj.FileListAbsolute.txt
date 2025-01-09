@@ -1,0 +1,13 @@
+C:\Users\小伤刘\source\repos\wwwww\枚举之间的转化\bin\Debug\netcoreapp3.1\枚举之间的转化.exe
+C:\Users\小伤刘\source\repos\wwwww\枚举之间的转化\bin\Debug\netcoreapp3.1\枚举之间的转化.deps.json
+C:\Users\小伤刘\source\repos\wwwww\枚举之间的转化\bin\Debug\netcoreapp3.1\枚举之间的转化.runtimeconfig.json
+C:\Users\小伤刘\source\repos\wwwww\枚举之间的转化\bin\Debug\netcoreapp3.1\枚举之间的转化.runtimeconfig.dev.json
+C:\Users\小伤刘\source\repos\wwwww\枚举之间的转化\bin\Debug\netcoreapp3.1\枚举之间的转化.dll
+C:\Users\小伤刘\source\repos\wwwww\枚举之间的转化\bin\Debug\netcoreapp3.1\枚举之间的转化.pdb
+C:\Users\小伤刘\source\repos\wwwww\枚举之间的转化\obj\Debug\netcoreapp3.1\枚举之间的转化.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\小伤刘\source\repos\wwwww\枚举之间的转化\obj\Debug\netcoreapp3.1\枚举之间的转化.AssemblyInfoInputs.cache
+C:\Users\小伤刘\source\repos\wwwww\枚举之间的转化\obj\Debug\netcoreapp3.1\枚举之间的转化.AssemblyInfo.cs
+C:\Users\小伤刘\source\repos\wwwww\枚举之间的转化\obj\Debug\netcoreapp3.1\枚举之间的转化.csproj.CoreCompileInputs.cache
+C:\Users\小伤刘\source\repos\wwwww\枚举之间的转化\obj\Debug\netcoreapp3.1\枚举之间的转化.dll
+C:\Users\小伤刘\source\repos\wwwww\枚举之间的转化\obj\Debug\netcoreapp3.1\枚举之间的转化.pdb
+C:\Users\小伤刘\source\repos\wwwww\枚举之间的转化\obj\Debug\netcoreapp3.1\枚举之间的转化.genruntimeconfig.cache

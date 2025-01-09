@@ -1,0 +1,79 @@
+敌人
+创建脚本--敌人马达EnemyMgtor ,提供移动、旋转、寻路功能。
+创建脚本--敌人状态信息EnemyStatusInfo ,定义血量,提供受伤、死亡的功能。
+创建脚本- -敌人动画EnerhyAnimation ,定义各种动画名称，提供播放动画的功能，
+创建脚本-敌人AI EnemyAI ,通过判断状态,执行寻路或者攻击。
+
+开始时生成指定数量的敌人。
+为每人随机选择条可以使用的路线。
+要求:敌人类型、产生的延迟时间随机。
+当敌人死亡后,再产生下一个敌人,直到生成数量到达上限为止。
+
+需求分析
+创建根路线,并添加多条配有路点的路线。
+创建脚本--敌人生成器EnemySpawn，附加到根路线中提供生成敌人的功能。
+创建类-路线WayLine ,包含属性:路点坐标Vector3[]Points ,是否可用bool IsUseable。
+当生成器启用后，计算所有子物体[路线]的路点坐标。
+当生成敌人时,随机选择条可以使用的路线。 
+
+
+代码实现
+敌人生成器EnemySpawn
+定义变量
+WayLine[] lines用于存储所有路线。
+GameObject[] enemyTypes用于记录敌人预制件。
+int startCount用于记录开始时需要创建的敌人数量。
+int spawnedCount用于记录经产生的敌人数量
+int maxCount用于记录产生敌人数量的上限
+int maxDelay用于记录产生敌人的最大延迟时间
+
+
+
+查找血量最低的敌人
+
+Enemy[] allaEnemy=Object.FindObjectsOfType<Enemy>();               //查找场景中所有Enemy类型的引用
+Enemy min =FindEnemyByMinHP(allEenmy);                    //获取血量最低的对象引用
+public Enemy FindEnemyByMIinHP(Enemy[] allEnemy)
+{
+Enemy min=allEnemy[0]
+for(i=1;i<allEnmy.Length;i++){
+if(min>allEnemy[i]){
+min=allEnemy[i]
+}
+return min;
+}
+在层级未知的情况下查找子物体
+首先在子物体层查找，没有的话去下一个物体层查找，
+
+public static Transform GetChild(Transform parentTF,string childName)
+
+{
+
+Transform childTF=parentTF.Find(childName)
+if(childTF!=null)
+return childTF;
+int count =parentTF.childCount;
+for(int i=0;i<count ;i++)
+{
+childTF=GetChild(parentTF.GetChild(0),childName);
+if(childTF!=null)
+return childTF;
+}
+
+}
+
+
+
+
+Lerp(起点，终点，起点到终点的比例)。
+
+
+暂停游戏
+private void OnGUI()
+{
+if (GUILayout.Button("暂停游戏"))
+{
+Time.timeScale = 0;
+}
+if (GUILayout.Button("继续游戏"))
+Time.timeScale =1;

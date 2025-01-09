@@ -1,0 +1,14 @@
+C:\Users\小伤刘\Desktop\c#\接口\接口\bin\Debug\netcoreapp3.1\接口.exe
+C:\Users\小伤刘\Desktop\c#\接口\接口\bin\Debug\netcoreapp3.1\接口.deps.json
+C:\Users\小伤刘\Desktop\c#\接口\接口\bin\Debug\netcoreapp3.1\接口.runtimeconfig.json
+C:\Users\小伤刘\Desktop\c#\接口\接口\bin\Debug\netcoreapp3.1\接口.runtimeconfig.dev.json
+C:\Users\小伤刘\Desktop\c#\接口\接口\bin\Debug\netcoreapp3.1\接口.dll
+C:\Users\小伤刘\Desktop\c#\接口\接口\bin\Debug\netcoreapp3.1\接口.pdb
+C:\Users\小伤刘\Desktop\c#\接口\接口\obj\Debug\netcoreapp3.1\接口.csproj.AssemblyReference.cache
+C:\Users\小伤刘\Desktop\c#\接口\接口\obj\Debug\netcoreapp3.1\接口.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\小伤刘\Desktop\c#\接口\接口\obj\Debug\netcoreapp3.1\接口.AssemblyInfoInputs.cache
+C:\Users\小伤刘\Desktop\c#\接口\接口\obj\Debug\netcoreapp3.1\接口.AssemblyInfo.cs
+C:\Users\小伤刘\Desktop\c#\接口\接口\obj\Debug\netcoreapp3.1\接口.csproj.CoreCompileInputs.cache
+C:\Users\小伤刘\Desktop\c#\接口\接口\obj\Debug\netcoreapp3.1\接口.dll
+C:\Users\小伤刘\Desktop\c#\接口\接口\obj\Debug\netcoreapp3.1\接口.pdb
+C:\Users\小伤刘\Desktop\c#\接口\接口\obj\Debug\netcoreapp3.1\接口.genruntimeconfig.cache

@@ -1,0 +1,8 @@
+
+
+
+
+移动的时候旋转问题
+在刚体组件中找到constraints组件，锁定z轴就可以了
+抖动问题
+把放在update里的方法放到fixupdate中

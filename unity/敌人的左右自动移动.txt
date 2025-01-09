@@ -1,0 +1,61 @@
+using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+using UnityEngine.AI;
+
+public class Damage : MonoBehaviour
+{
+    private Rigidbody2D rd;
+    public Transform Left, Right;
+
+
+    private  float leftX, rightX;
+
+
+    private bool faceLeft = true;
+
+    public float speed = 5f;
+    // Start is called before the first frame update
+    void Start()
+    {
+        rd = GetComponent<Rigidbody2D>();
+        //分隔开子物体和父物体的链接
+        transform.DetachChildren();
+
+        leftX = Left.position.x;
+        rightX = Right.position.x;
+       Destroy(Left.gameObject);
+         Destroy(Right.gameObject);
+    }
+
+    // Update is called once per frame
+    void Update()
+    {
+        monent();
+    }
+    void monent()
+    {
+        if (faceLeft)
+        {
+            rd.velocity = new Vector2(-speed, rd.velocity.y);
+            if (transform.position.x < leftX)
+            {
+                //改变物体的朝向
+                transform.localScale = new Vector3(-1, 1, 1);
+                faceLeft = false;
+            }
+        }
+        else
+        {
+            rd.velocity = new Vector2(speed, rd.velocity.y);
+            if (transform.position.x > rightX)
+            {
+                //改变物体的朝向
+                transform.localScale = new Vector3(1, 1, 1);
+                faceLeft = true;
+            }
+        }
+
+    }
+   
+}

@@ -1,0 +1,14 @@
+C:\Users\小伤刘\source\repos\wwwww\wwwww\bin\Debug\netcoreapp3.1\wwwww.exe
+C:\Users\小伤刘\source\repos\wwwww\wwwww\bin\Debug\netcoreapp3.1\wwwww.deps.json
+C:\Users\小伤刘\source\repos\wwwww\wwwww\bin\Debug\netcoreapp3.1\wwwww.runtimeconfig.json
+C:\Users\小伤刘\source\repos\wwwww\wwwww\bin\Debug\netcoreapp3.1\wwwww.runtimeconfig.dev.json
+C:\Users\小伤刘\source\repos\wwwww\wwwww\bin\Debug\netcoreapp3.1\wwwww.dll
+C:\Users\小伤刘\source\repos\wwwww\wwwww\bin\Debug\netcoreapp3.1\wwwww.pdb
+C:\Users\小伤刘\source\repos\wwwww\wwwww\obj\Debug\netcoreapp3.1\wwwww.csproj.AssemblyReference.cache
+C:\Users\小伤刘\source\repos\wwwww\wwwww\obj\Debug\netcoreapp3.1\wwwww.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\小伤刘\source\repos\wwwww\wwwww\obj\Debug\netcoreapp3.1\wwwww.AssemblyInfoInputs.cache
+C:\Users\小伤刘\source\repos\wwwww\wwwww\obj\Debug\netcoreapp3.1\wwwww.AssemblyInfo.cs
+C:\Users\小伤刘\source\repos\wwwww\wwwww\obj\Debug\netcoreapp3.1\wwwww.csproj.CoreCompileInputs.cache
+C:\Users\小伤刘\source\repos\wwwww\wwwww\obj\Debug\netcoreapp3.1\wwwww.dll
+C:\Users\小伤刘\source\repos\wwwww\wwwww\obj\Debug\netcoreapp3.1\wwwww.pdb
+C:\Users\小伤刘\source\repos\wwwww\wwwww\obj\Debug\netcoreapp3.1\wwwww.genruntimeconfig.cache

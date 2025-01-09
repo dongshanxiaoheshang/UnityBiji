@@ -1,0 +1,14 @@
+C:\Users\小伤刘\Desktop\lianxilll\lianxilll\obj\Debug\netcoreapp3.1\lianxilll.csproj.AssemblyReference.cache
+C:\Users\小伤刘\Desktop\lianxilll\lianxilll\obj\Debug\netcoreapp3.1\lianxilll.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\小伤刘\Desktop\lianxilll\lianxilll\obj\Debug\netcoreapp3.1\lianxilll.AssemblyInfoInputs.cache
+C:\Users\小伤刘\Desktop\lianxilll\lianxilll\obj\Debug\netcoreapp3.1\lianxilll.AssemblyInfo.cs
+C:\Users\小伤刘\Desktop\lianxilll\lianxilll\obj\Debug\netcoreapp3.1\lianxilll.csproj.CoreCompileInputs.cache
+C:\Users\小伤刘\Desktop\lianxilll\lianxilll\bin\Debug\netcoreapp3.1\lianxilll.exe
+C:\Users\小伤刘\Desktop\lianxilll\lianxilll\bin\Debug\netcoreapp3.1\lianxilll.deps.json
+C:\Users\小伤刘\Desktop\lianxilll\lianxilll\bin\Debug\netcoreapp3.1\lianxilll.runtimeconfig.json
+C:\Users\小伤刘\Desktop\lianxilll\lianxilll\bin\Debug\netcoreapp3.1\lianxilll.runtimeconfig.dev.json
+C:\Users\小伤刘\Desktop\lianxilll\lianxilll\bin\Debug\netcoreapp3.1\lianxilll.dll
+C:\Users\小伤刘\Desktop\lianxilll\lianxilll\bin\Debug\netcoreapp3.1\lianxilll.pdb
+C:\Users\小伤刘\Desktop\lianxilll\lianxilll\obj\Debug\netcoreapp3.1\lianxilll.dll
+C:\Users\小伤刘\Desktop\lianxilll\lianxilll\obj\Debug\netcoreapp3.1\lianxilll.pdb
+C:\Users\小伤刘\Desktop\lianxilll\lianxilll\obj\Debug\netcoreapp3.1\lianxilll.genruntimeconfig.cache

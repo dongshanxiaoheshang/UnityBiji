@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32106.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "序列化和反序列化", "序列化和反序列化\序列化和反序列化.csproj", "{B4D956B1-72FE-4ADA-ABFA-F016F6D420AE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B4D956B1-72FE-4ADA-ABFA-F016F6D420AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4D956B1-72FE-4ADA-ABFA-F016F6D420AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4D956B1-72FE-4ADA-ABFA-F016F6D420AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4D956B1-72FE-4ADA-ABFA-F016F6D420AE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3AB0E49D-3A95-4F98-BCD3-5016CF050676}
+	EndGlobalSection
+EndGlobal

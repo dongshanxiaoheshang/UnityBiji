@@ -1,0 +1,6 @@
+ private void MovementRotation(float h,float v)
+    {
+       Quaternion dir= Quaternion.LookRotation(new Vector3(h, 0, v));
+        this.transform.rotation = Quaternion.Lerp(this.transform.rotation, dir, Time.deltaTime*rotationSpeed);
+        this.transform.Translate(0, 0, Time.deltaTime * speed);
+    }
